@@ -3,6 +3,7 @@ from PIL import Image
 import matplotlib.pyplot as plt
 import numpy as np
 
+
 #--------------------------------------#
 #地図生成プログラムです.
 #以下のサイトを参考にしました.
